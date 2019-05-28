@@ -200,8 +200,6 @@ class Nearby(RequesAPI):
         self.nearby = nearby
 
     def run(self, size=20):
-        """ get relax places around pymi class"""
-
         if not isinstance(self.nearby, (list, tuple)):
             self.nearby = [self.nearby]
 
