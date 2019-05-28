@@ -1,0 +1,537 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.715447,
+          10.805285
+        ]
+      },
+      "properties": {
+        "address": "HẺM 64 Đường D3<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "O Bistro Nguyen Gia Tri - Steak & Wine, Pizza & Beer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71885,
+          10.80704
+        ]
+      },
+      "properties": {
+        "address": "137 ĐƯỜNG Ung Văn Khiêm<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Lẩu Cháo Cua Đồng Căng Tin Sao Mai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71644,
+          10.80746
+        ]
+      },
+      "properties": {
+        "address": "200 ĐƯỜNG D2<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Corner.D2 Beer Club"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.72239,
+          10.8024
+        ]
+      },
+      "properties": {
+        "address": "ĐƯỜNG Ung Văn Khiêm<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Xõa Quán"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71601,
+          10.8068
+        ]
+      },
+      "properties": {
+        "address": "HẺM 213 D2<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Mộc Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71538,
+          10.80105
+        ]
+      },
+      "properties": {
+        "address": "513 ĐƯỜNG Điện Biên Phủ<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Escapism Tea & Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71593,
+          10.80364
+        ]
+      },
+      "properties": {
+        "address": "84 ĐƯỜNG D2<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Glory Cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.716029,
+          10.806688
+        ]
+      },
+      "properties": {
+        "address": "213 ĐƯỜNG Nguyễn Gia Trí<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Nhà Hàng Thiên Đàng 213 Club"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71633,
+          10.80303
+        ]
+      },
+      "properties": {
+        "address": "39 ĐƯỜNG D2<br/>Quận Bình Thạnh, Ho Chi Minh",
+        "name": "Vee Vee Coffee&Beer Club"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.72644,
+          10.80503
+        ]
+      },
+      "properties": {
+        "address": "ĐƯỜNG Nguyễn Văn Hưởng<br/>Quận 2, Thành Phố Hồ Chí Minh",
+        "name": "The Artichoke Coffee & Tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7204,
+          10.79857
+        ]
+      },
+      "properties": {
+        "address": "625 ĐƯỜNG Điện Biên Phủ<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Lalaland Cafe & Pub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.712889,
+          10.798706
+        ]
+      },
+      "properties": {
+        "address": "Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Clup H3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71342,
+          10.81082
+        ]
+      },
+      "properties": {
+        "address": "ĐƯỜNG Xô Viết Nghệ Tĩnh<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Cafe - Bar - Nhạc Trẻ Cafe - Bar - Nhac Tre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.713424,
+          10.80395
+        ]
+      },
+      "properties": {
+        "address": "Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Go Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71243,
+          10.8121
+        ]
+      },
+      "properties": {
+        "address": "71 13<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "New 191 Club"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70899,
+          10.79494
+        ]
+      },
+      "properties": {
+        "address": "11 ĐƯỜNG Nguyễn Cửu Vân<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Jet Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70912,
+          10.8118
+        ]
+      },
+      "properties": {
+        "address": "259 ĐƯỜNG Đinh Bộ Lĩnh<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "The Beer Store"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71556,
+          10.81278
+        ]
+      },
+      "properties": {
+        "address": "719 ĐƯỜNG Xô Viết Nghệ Tĩnh<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "The Brothers Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71619,
+          10.81093
+        ]
+      },
+      "properties": {
+        "address": "Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Aucostic Ngô Thời Nhiệm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.72356,
+          10.79999
+        ]
+      },
+      "properties": {
+        "address": "364 ĐƯỜNG Ung Văn Khiêm<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Karaoke Viva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71561,
+          10.80207
+        ]
+      },
+      "properties": {
+        "address": "ĐƯỜNG Nguyễn Gia Trí<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Urban House Coffee & Bistro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.715959,
+          10.803083
+        ]
+      },
+      "properties": {
+        "address": "72 ĐƯỜNG Nguyễn Gia Trí<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Le Bordeaux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.715709,
+          10.802085
+        ]
+      },
+      "properties": {
+        "address": "22 ĐƯỜNG D2<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Three O'Clock"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71528,
+          10.80469
+        ]
+      },
+      "properties": {
+        "address": "HẺM 64 Đường D3<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Harrison K-Food Shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71612,
+          10.80767
+        ]
+      },
+      "properties": {
+        "address": "ĐƯỜNG Ung Văn Khiêm<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Quán 95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.715941,
+          10.805354
+        ]
+      },
+      "properties": {
+        "address": "Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "D2 Cooffe D2 Cooffe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.716,
+          10.80508
+        ]
+      },
+      "properties": {
+        "address": "ĐƯỜNG Nguyễn Gia Trí<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Papaxot D2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.715467,
+          10.806167
+        ]
+      },
+      "properties": {
+        "address": "HẺM 57 Đường D5<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Cơm Gà Phú Yên - 3 Con Gà"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71651,
+          10.80582
+        ]
+      },
+      "properties": {
+        "address": "111 ĐƯỜNG D5<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Quán Huế O Mân"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71386,
+          10.80638
+        ]
+      },
+      "properties": {
+        "address": "ĐƯỜNG D5<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Quán Thiên Thanh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.716598,
+          10.807384
+        ]
+      },
+      "properties": {
+        "address": "80 ĐƯỜNG Ung Văn Khiêm<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Nhà Hàng Tư Thể"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71585,
+          10.80385
+        ]
+      },
+      "properties": {
+        "address": "ĐƯỜNG Nguyễn Gia Trí<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Hải Sản 89 (Cơ Sở 4)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.717,
+          10.79981
+        ]
+      },
+      "properties": {
+        "address": "ĐƯỜNG Điện Biên Phủ<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Cơm Như Ý"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71607,
+          10.80642
+        ]
+      },
+      "properties": {
+        "address": "199 ĐƯỜNG D2<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Warehouse Coffee & Milk Shake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.722515,
+          10.802527
+        ]
+      },
+      "properties": {
+        "address": "143A ĐƯỜNG Ung Văn Khiêm<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Quán Thủy 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.72051,
+          10.80608
+        ]
+      },
+      "properties": {
+        "address": "175 ĐƯỜNG Ung Văn Khiêm<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Bình Binh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71808,
+          10.80714
+        ]
+      },
+      "properties": {
+        "address": "114 ĐƯỜNG Ung Văn Khiêm<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Thủy Dương Huế"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71442,
+          10.80136
+        ]
+      },
+      "properties": {
+        "address": "475A ĐƯỜNG Điện Biên Phủ<br/>Quận Bình Thạnh, Thành Phố Hồ Chí Minh",
+        "name": "Nhà Hàng Lá Việt"
+      }
+    }
+  ]
+}
