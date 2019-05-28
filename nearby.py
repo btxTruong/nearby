@@ -189,19 +189,13 @@ class Nearby(RequesAPI):
         around specific address
     """
 
-    def __init__(self, location, nearby, cls_map_api, radius=2000):
-        super().__init__(location=location,
-                         cls_map_api=cls_map_api,
-                         radius=radius)
-        self.nearby = nearby
-
-    def run(self, size=20):
-        if not isinstance(self.nearby, (list, tuple)):
-            self.nearby = [self.nearby]
+    def run(self, nearby, size=20):
+        if not isinstance(nearby, (list, tuple)):
+            nearby = [nearby]
 
         geojson = GeoJsonFeatureCollection()
 
-        for n in self.nearby:
+        for n in nearby:
             response = self.nearby_coor(n)
             cmp_size = 0
             for p in response:
@@ -232,9 +226,9 @@ def main():
 
     here_api = HEREAPI(app_id, app_code)
     f = Nearby(location=address,
-               cls_map_api=here_api,
-               nearby=funny_place)
-    f.run()
+               cls_map_api=here_api)
+
+    f.run(nearby=funny_place)
 
 
 if __name__ == '__main__':
