@@ -1,2 +1,2 @@
 # nearby
-Find places around specific address 
+Find places around specific address. Using HERE API 
