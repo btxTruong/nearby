@@ -18,12 +18,12 @@ def requests_(url, params=None, timeout=10):
 
 def extract_data(obj, key, **kwargs):
     """
-    Find all values of key if key in obj
+    Find all values of key if key in json
 
     :param obj: (json) Json need to parse
     :param key: (string) key in obj need to extract
-    :param exclude: (string) (optional) Avoide parse specific item in json
-    :return: (list) value of key in obj
+    :param exclude: (string) (optional) avoid parse specific key in json
+    :return: (list) value of key in json
     """
 
     if isinstance(obj, dict):
@@ -107,7 +107,7 @@ class RequesAPI:
 
     def retrive_coordinate(self, location):
         """
-        Get coordinate of specific place
+        Get coordinate of specific address
         :param location: (string) **(required)**
             Address of place need to find coordinate
         :return: (dict) A dictionay contains longtitude, latitude
@@ -124,11 +124,9 @@ class RequesAPI:
 
     def nearby_coor(self, nearby):
         """
-        dictionry is response from discover search api.
-        It contains coordinate of nearby places around specific place
+        dictionary contains coordinate of nearby places around specific address
 
         :param nearby: (list, tuple) places need to retrieve coordinate
-        :return: (dict) A dictionary contains response from search api
         """
 
         base, params = self.map_api.places_api(nearby,
@@ -143,7 +141,7 @@ class RequesAPI:
 
 
 class GeoJsonFeatureCollection:
-    """ Make geojsonfeaturecollection"""
+    """ geojsonfeaturecollection object"""
 
     def __init__(self):
         self._collection = {
@@ -177,8 +175,6 @@ class GeoJsonFeatureCollection:
 
     @classmethod
     def dump(cls, geojson, filename='geofile'):
-        """ Write to GEOJSON file"""
-
         if not isinstance(geojson, cls):
             raise ValueError('No geojson object provided')
 
