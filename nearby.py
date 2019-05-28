@@ -118,7 +118,7 @@ class RequesAPI:
 
         coordinate = list(extract_data(response, "DisplayPosition"))[0]
         if not coordinate:
-            raise ValueError('No class coordinate found')
+            raise ValueError('No coordinate found')
 
         return coordinate
 
